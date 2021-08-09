@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+ 
+  <!-- Settings -->
+  <SEMR_SettingsCategory>Misc Robots++ HP Ext</SEMR_SettingsCategory>
+  <SEMR_Station_HP>station HP</SEMR_Station_HP>
+  <SEMR_Builder>Builder</SEMR_Builder>
+  <SEMR_Builders>Builders</SEMR_Builders>
+  <SEMR_Cleaner>Cleaner</SEMR_Cleaner>
+  <SEMR_Cleaners>Cleaners</SEMR_Cleaners>
+  <SEMR_Crafter>Crafter</SEMR_Crafter>
+  <SEMR_Crafters>Crafters</SEMR_Crafters>
+  <SEMR_Hauler>Hauler</SEMR_Hauler>
+  <SEMR_Haulers>Haulers</SEMR_Haulers>
+  <SEMR_Kitchen>Kitchen</SEMR_Kitchen>
+  <SEMR_Kitchens>Kitchens</SEMR_Kitchens>
+  <SEMR_Medic>Medical</SEMR_Medic>
+  <SEMR_Medics>Medicals</SEMR_Medics>
+  
+</LanguageData>
